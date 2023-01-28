@@ -1,5 +1,5 @@
 ### Hi there 👋
-## You can find my new repo there [@mlkvdev](https://github.com/mlkvdev)
+## You can find my new repos there [@mlkvdev](https://github.com/mlkvdev)
 <!--
 **malikovss/malikovss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
